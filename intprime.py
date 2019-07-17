@@ -6,4 +6,4 @@ for n in range (start+1,end):
             x = 1
             break
     if x == 0:
-        print (n,end = "  ")
+        print (n,end = " ")
